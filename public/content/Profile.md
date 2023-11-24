@@ -2,8 +2,8 @@
 - Portable Portfolio
 
 ## Header
-- Eu sou o Mateus Lidonis Blanco. 
-- Sou um desenvolvedor Back-End.
+- Mateus Lidonis Blanco. 
+- Desenvolvedor Back-End.
 - Apaixonado por novas tecnologias.
 
 ## About
