@@ -43,8 +43,8 @@ export default function Contact({ color }) {
             <Divider orientation="horizontal" />
           </Stack>
           <Stack spacing={4} as={Container} maxW={"3xl"} textAlign={"center"}>
-            <Heading fontSize={"3xl"}>Let's stay in touch!</Heading>
-            <Text color={"gray.600"} fontSize={"xl"} px={4}>
+            <Heading fontSize={"3xl"}>Entre em contato comigo e vamos marcar uma entrevista!</Heading>
+            <Text color={"white.600"} fontSize={"xl"} px={4}>
               {profile.contact}
             </Text>
             <Text color={`${color}.500`} fontWeight={600} fontSize={"lg"} px={4}>

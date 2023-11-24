@@ -80,7 +80,7 @@ export default function Header({ color }) {
               variant={"link"}
               colorScheme={"blue"}
               size={"sm"}
-              onClick={scrollToContact}
+              onClick={scrollToContact}              
             >
               Entre em contato.
             </Button>
