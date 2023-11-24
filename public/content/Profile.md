@@ -2,18 +2,18 @@
 - Portable Portfolio
 
 ## Header
-- Hi, my name is Eldora. 
-- I'm a software engineer.
-- Short Description Here.
+- Eu sou o Mateus Lidonis Blanco. 
+- Sou um desenvolvedor Back-End.
+- Apaixonado por novas tecnologias.
 
 ## About
 Write your "About" section here.
 
 ## Contact
 Write your "Contact" section here.
-- LinkedIn: https://linkedin.com/in/username
-- GitHub: https://github.com/username
-- Email: username@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mateus-lidonis-4054b519a/
+- GitHub: https://github.com/MateusLidonis
+- Email: mateus.lidonis@gmail.com
 
 ## Logo
-- EB
+- MLB
