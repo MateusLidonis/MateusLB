@@ -1,6 +1,6 @@
 ## Projeto 1
 Description
-- Tags: Project 1
+- Tags: Front End
 - Badges:
   - Badge [blue]
 - Buttons:
@@ -8,7 +8,7 @@ Description
 
 ## Projeto 2
 Description
-- Tags: Project 2
+- Tags: Back End
 - Badges:
   - Badge [blue]
 - Buttons:
@@ -16,7 +16,7 @@ Description
 
 ## Projeto 3
 Description
-- Tags: Project 3
+- Tags: IoT
 - Badges:
   - Badge [blue]
 - Buttons:
