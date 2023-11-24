@@ -1,22 +1,22 @@
-## Project 1
+## Projeto 1
 Description
-- Tags: Front End
+- Tags: Project 1
 - Badges:
   - Badge [blue]
 - Buttons:
   - Link [https://example.com]
 
-## Project 2
+## Projeto 2
 Description
-- Tags: Back End
+- Tags: Project 2
 - Badges:
   - Badge [blue]
 - Buttons:
   - Link [https://example.com]
 
-## Project 3
+## Projeto 3
 Description
-- Tags: IoT
+- Tags: Project 3
 - Badges:
   - Badge [blue]
 - Buttons:
