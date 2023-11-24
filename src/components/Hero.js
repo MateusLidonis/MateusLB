@@ -74,7 +74,7 @@ export default function Header({ color }) {
               }}
               onClick={linkedin}
             >
-              Let's connect!
+              Conecte no LinkedIn
             </Button>
             <Button
               variant={"link"}
@@ -82,7 +82,7 @@ export default function Header({ color }) {
               size={"sm"}
               onClick={scrollToContact}
             >
-              Contact Me
+              Entre em contato.
             </Button>
             <Box>
               <Icon
@@ -101,7 +101,7 @@ export default function Header({ color }) {
                 top={"-15px"}
                 transform={"rotate(10deg)"}
               >
-                Click me!
+                Clique aqui!
               </Text>
             </Box>
           </Stack>

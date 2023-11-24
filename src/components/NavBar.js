@@ -99,16 +99,16 @@ export default function Nav({ color }) {
             {isLargerThanMD ? (
               <>
                 <Button variant="ghost" onClick={scrollToAbout}>
-                  About
+                  Sobre
                 </Button>
                 <Button variant="ghost" onClick={scrollToExperience}>
-                  Experience
+                  Experiência
                 </Button>
                 <Button variant="ghost" onClick={scrollToProjects}>
-                  Projects
+                  Projetos
                 </Button>
                 <Button variant="ghost" onClick={scrollToContact}>
-                  Contact
+                  Contato
                 </Button>
               </>
             ) : (
@@ -132,16 +132,16 @@ export default function Nav({ color }) {
                   <DrawerContent>
                     <DrawerBody>
                       <Button variant="ghost" onClick={scrollToAbout}>
-                        About
+                        Sobre
                       </Button>
                       <Button variant="ghost" onClick={scrollToExperience}>
-                        Experience
+                        Experiência
                       </Button>
                       <Button variant="ghost" onClick={scrollToProjects}>
-                        Projects
+                        Projetos
                       </Button>
                       <Button variant="ghost" onClick={scrollToContact}>
-                        Contact
+                        Contato
                       </Button>
                     </DrawerBody>
                   </DrawerContent>
