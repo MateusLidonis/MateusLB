@@ -8,7 +8,8 @@ import {
   Heading,
   Center,
 } from "@chakra-ui/react";
-import { FaLinkedin, FaGithub, FaEnvelope } from "react-icons/fa";
+import { FaLinkedin, FaGithub } from "react-icons/fa";
+import { SiGmail } from "react-icons/si";
 import ProfileArray from "./ProfileArray";
 
 export default function Contact({ color }) {
@@ -36,7 +37,7 @@ export default function Contact({ color }) {
               <Text color={`${color}.400`} fontWeight={800}>
                 04
               </Text>
-              <Text fontWeight={800}>Contact</Text>
+              <Text fontWeight={800}>Contato</Text>
             </HStack>
             <Divider orientation="horizontal" />
           </Stack>
@@ -49,10 +50,14 @@ export default function Contact({ color }) {
               {profile.email}
             </Text>
             <Center>
-              <HStack pt={4} spacing={4}>
-                <FaLinkedin onClick={linkedin} size={28} />
-                <FaGithub onClick={github} size={28} />
-                <FaEnvelope onClick={email} size={28} />
+              <HStack pt={4} spacing={4} paddingRight={2} _hover={{color:'#0A66C2'}}>
+                <FaLinkedin onClick={linkedin} size={28} role='button' />
+              </HStack>
+              <HStack pt={4} spacing={4} paddingRight={2} _hover={{color:'#7F278F'}}>
+                <FaGithub onClick={github} size={28} role='button'/>
+              </HStack>
+              <HStack pt={4} spacing={4} paddingLeft={0.5} _hover={{color:'#D64C3E'}}>
+                <SiGmail onClick={email} size={28} role='button' />
               </HStack>
             </Center>
           </Stack>
