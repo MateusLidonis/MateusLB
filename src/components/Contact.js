@@ -4,6 +4,7 @@ import {
   Text,
   Container,
   Box,
+  Button,
   HStack,
   Heading,
   Center,
@@ -52,13 +53,13 @@ export default function Contact({ color }) {
             </Text>
             <Center>
               <HStack pt={4} spacing={4} paddingRight={2} _hover={{color:'#0A66C2'}}>
-                <FaLinkedin onClick={linkedin} size={28} role='button' />
+                <Button><FaLinkedin onClick={linkedin} size={28}/></Button>
               </HStack>
               <HStack pt={4} spacing={4} paddingRight={2} _hover={{color:'#7F278F'}}>
-                <FaGithub onClick={github} size={28} role='button'/>
+                <Button><FaGithub onClick={github} size={28}/></Button>
               </HStack>
               <HStack pt={4} spacing={4} paddingLeft={0.5} _hover={{color:'#D64C3E'}}>
-                <SiGmail onClick={email} size={28} role='button' />
+                <Button><SiGmail onClick={email} size={28}/></Button>
               </HStack>
             </Center>
           </Stack>
