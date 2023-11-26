@@ -58,7 +58,7 @@ export default function Contact({ color }) {
               <HStack pt={4} spacing={4} paddingRight={2} _hover={{color:'#7F278F'}}>
                 <Button><FaGithub onClick={github} size={28}/></Button>
               </HStack>
-              <HStack pt={4} spacing={4} paddingLeft={0.5} _hover={{color:'#D64C3E'}}>
+              <HStack pt={4} spacing={4} _hover={{color:'#D64C3E'}}>
                 <Button><SiGmail onClick={email} size={28}/></Button>
               </HStack>
             </Center>
