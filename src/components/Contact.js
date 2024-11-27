@@ -44,22 +44,45 @@ export default function Contact({ color }) {
             <Divider orientation="horizontal" />
           </Stack>
           <Stack spacing={4} as={Container} maxW={"3xl"} textAlign={"center"}>
-            <Heading fontSize={"3xl"}>Entre em contato comigo e vamos marcar uma entrevista!</Heading>
+            <Heading fontSize={"3xl"}>
+              Entre em contato comigo e vamos conversar!
+            </Heading>
             <Text color={"white.600"} fontSize={"xl"} px={4}>
               {profile.contact}
             </Text>
-            <Text color={`${color}.500`} fontWeight={600} fontSize={"lg"} px={4}>
+            <Text
+              color={`${color}.500`}
+              fontWeight={600}
+              fontSize={"lg"}
+              px={4}
+            >
               {profile.email}
             </Text>
             <Center>
-              <HStack pt={4} spacing={4} paddingRight={2} _hover={{color:'#0A66C2'}}>
-                <Button><FaLinkedin onClick={linkedin} size={28}/></Button>
+              <HStack
+                pt={4}
+                spacing={4}
+                paddingRight={2}
+                _hover={{ color: "#0A66C2" }}
+              >
+                <Button>
+                  <FaLinkedin onClick={linkedin} size={28} />
+                </Button>
               </HStack>
-              <HStack pt={4} spacing={4} paddingRight={2} _hover={{color:'#7F278F'}}>
-                <Button><FaGithub onClick={github} size={28}/></Button>
+              <HStack
+                pt={4}
+                spacing={4}
+                paddingRight={2}
+                _hover={{ color: "#7F278F" }}
+              >
+                <Button>
+                  <FaGithub onClick={github} size={28} />
+                </Button>
               </HStack>
-              <HStack pt={4} spacing={4} _hover={{color:'#D64C3E'}}>
-                <Button><SiGmail onClick={email} size={28}/></Button>
+              <HStack pt={4} spacing={4} _hover={{ color: "#D64C3E" }}>
+                <Button>
+                  <SiGmail onClick={email} size={28} />
+                </Button>
               </HStack>
             </Center>
           </Stack>
@@ -68,4 +91,3 @@ export default function Contact({ color }) {
     </>
   );
 }
-

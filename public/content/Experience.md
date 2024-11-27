@@ -1,29 +1,50 @@
-## Company 1
-- *Role* | Jan'23 - Feb'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 1
-- Badges:
-  - Badge [blue]
-- List Items:
-  - Point 1
-  - Point 2
+## Dankia Automação Hospitalar
 
-## Company 2
-- *Role* | Feb'23 - Mar'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 2
+- Desenvolvedor GeneXus Júnior | Jul'23 - Agora
+- ![logoDankia](../assets/logoDankia.png)
+- Tags: Desenvolvimento
 - Badges:
-  - Badge [blue]
+  - GeneXus 17 e Ev3 [blue]
+  - Web e Win [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - Desde Jan'23 atuando com GeneXus
+  - Desenvolvimento de novas funcionalidades
+  - Projetos intersetoriais
+  - Documentação
+  - Manutenção / Correção de código
 
-## Company 3
-- *Role* | Mar'23 - Apr'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 3
+## Dankia Automação Hospitalar
+
+- Analista de Suporte Pleno | Ago'22 - Jun'24
+- ![logoDankia](../assets/logoDankia.png)
+- Tags: Suporte
 - Badges:
-  - Badge [blue]
+  - Suporte Remoto [blue]
+  - Treinamento de Equipe [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - Treinamentos
+  - Manuais
+
+## Dankia Automação Hospitalar
+
+- Analista de Suporte Júnior | Abr'21 - Jul'22
+- ![logoDankia](../assets/logoDankia.png)
+- Tags: Suporte
+- Badges:
+  - Suporte Remoto [blue]
+  - Banco de Dados [blue]
+- List Items:
+  - Atendimento de Chamados
+  - Instalação e Configuração remota do equipamento
+
+## Dankia Automação Hospitalar
+
+- Estágio Técnico em Eletrônica | Jan'20 - Mar'21
+- ![logoDankia](../assets/logoDankia.png)
+- Tags: Eletrônica
+- Badges:
+  - Eletrônica
+  - SENAI
+- List Items:
+  - Análise e Manutenção de PCB
+  - Validação de Equipamento Físico
